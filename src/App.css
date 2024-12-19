@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+}
+
+
+.custom-font{
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif Arial, sans-serif
+}
+
+
+.text-left {
+  text-align: left;
+}
+.btn-left {
+  display: block;
+  margin-left: 0;
+}
